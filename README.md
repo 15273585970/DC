@@ -1,7 +1,5 @@
 ## 一、项目描述
 
-- [**Vue 版本请点击这里查看，也很不错的(o ﾟ v ﾟ)ノ！！！**](https://gitee.com/MTrun/big-screen-vue-datav)
-
 - 一个基于 React、Dva、DataV、ECharts 框架的 " **数据大屏项目** "。支持数据动态刷新渲染、屏幕适配、数据请求模拟、局部样式、图表自由替换/复用等功能。
 - 项目需要全屏展示（按 F11）。
 - 项目环境：react^16.2、webpack-4.0、npm-6.13、node-v12.16。
@@ -164,4 +162,4 @@ var _createHashHistory = _interopRequireDefault(
 
 ## 五、其余
 
-这个项目是个人的作品，难免会有问题和 BUG，如果有问题请进行评论，我也会尽力去更新，自己也在前端学习的路上，欢迎交流，非常感谢！
+hhhhhh, 拿别人的哈 拉取下来注意按照步骤走，install一下，运行项目如何卡死就修改一下端口，就这样~！
